@@ -22,7 +22,7 @@ export default function fibonacci(n) {
 
     fibSequence.push(currentValue);
 
-    iterationsCounter -= 1;
+    iterationsCounter -= 2;
   }
 
   return fibSequence;
